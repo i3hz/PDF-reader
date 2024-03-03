@@ -1,5 +1,5 @@
 import pyttsx3
-import fitz  # PyMuPDF
+import fitz 
 import os
 from multiprocessing import Pool
 
